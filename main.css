@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div.box {
+  width: 40%;
+  background-color: lightcoral;
+  margin: 150px auto;
+}
